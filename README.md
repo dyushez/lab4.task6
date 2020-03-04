@@ -1,1 +1,1 @@
-# lab4.task6
+Exploring the realization of Notebook.
